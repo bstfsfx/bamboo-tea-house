@@ -22,9 +22,6 @@ build/
 .next/
 out/
 
-# Local image assets (photos are not tracked; add locally as needed)
-public/images/
-
 # OS files
 .DS_Store
 Thumbs.db
